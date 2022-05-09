@@ -5,25 +5,33 @@ DeFi Bridge Wallet
 Bridge Wallet V1 Release for Windows Xp - Windows 11 + Mac OS X + M1
 ######################################################################################################
 
-Bridge any DeFi Tokens to ETH Chain SOL Chain and more
+Bridge any Cryptocurrency directly across Bridge Wallet
 
-Use your BNBSC to bridge directly to other blockchain networks
-
+We currently support ETH, Cardano, Stellar, Ripple, hyperledger, BTC, and several others.
+---------------------------
 Windows Release Installer
+    --------------
 Mac OS X Release Installer
+----------------------------
 
 Report any bug issues.
 
 Follow instructions on setup
-
-
 We will be adding updated hashes soon to create your own layout
 
+Import Custom Tokens
+Import export keys
+Verify Liquidity 
+Verify Smart Contracts
+Verify user addresses
+Download Transactions
+Integrate multi flash loans
+Integrate multi sig transactions
+Much more.
 
-2FA is added 
-
-- Bridge Wallet
-
-
+We will be releasing our iPhone and Android apps later this month.
 
 NOTE ADDED DETAILED OVERVIEW OF WHITEPAPERS FOR BRIDGE WALLET
+
+
+Bridge Wallet Team
