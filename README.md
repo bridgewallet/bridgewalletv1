@@ -23,3 +23,7 @@ We will be adding updated hashes soon to create your own layout
 2FA is added 
 
 - Bridge Wallet
+
+
+
+NOTE ADDED DETAILED OVERVIEW OF WHITEPAPERS FOR BRIDGE WALLET
